@@ -1,1 +1,2 @@
 # DIMOT
+Since our dataset was developed in collaboration with a company and involves a system that has already been launched at the subway station, its disclosure requires further discussion with the subway authority. Therefore, we provide an overview of the dataset and some examples with watermarks beforehand.
